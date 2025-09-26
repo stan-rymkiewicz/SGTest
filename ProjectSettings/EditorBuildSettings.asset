@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/mainmenu.unity
+    guid: 0a1e2cce9aa5c2b4685d004c20ed49e4
+  - enabled: 1
+    path: Assets/Scenes/game_ace_of_shadows.unity
+    guid: 3ebf65b5b158d0f4bb8606d8e835231a
+  - enabled: 1
+    path: Assets/Scenes/game_magic_words.unity
+    guid: 7584b2a99a49b5e4c988ab253950de8a
+  - enabled: 1
+    path: Assets/Scenes/game_phoenix_flame.unity
+    guid: 39451068ee21db843a8c3ce588187b96
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
